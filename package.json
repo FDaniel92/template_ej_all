@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "ejm-lib-marketing": "file:../ejm-lib-marketing",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.13.0",
     "sass-loader": "^9.0.2",
     "vue-scrollto": "^2.18.1"
